@@ -4,7 +4,7 @@
   "author": "Joe McCann",
   "description": "file://DESCRIPTION.md",
   "tagline": "The last Markdown editor, ever.",
-  "version": "3.24.1",
+  "version": "0.1.0",
   "healthCheckPath": "/",
   "httpPort": 8080,
   "addons": {
@@ -21,5 +21,6 @@
   "mediaLinks": [
     "https://s3.amazonaws.com/cloudron-media/dillinger-media-1.jpg",
     "https://s3.amazonaws.com/cloudron-media/dillinger-media-2.jpg"
-  ]
+  ],
+  "changelog": "file://CHANGELOG",
 }
