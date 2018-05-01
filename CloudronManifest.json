@@ -22,5 +22,5 @@
     "https://s3.amazonaws.com/cloudron-media/dillinger-media-1.jpg",
     "https://s3.amazonaws.com/cloudron-media/dillinger-media-2.jpg"
   ],
-  "changelog": "file://CHANGELOG",
+  "changelog": "file://CHANGELOG"
 }
