@@ -1,0 +1,22 @@
+{
+  "id": "org.dillinger.coudronapp",
+  "title": "Dillinger",
+  "author": "Joe McCann",
+  "description": "file://DESCRIPTION.md",
+  "tagline": "The last Markdown editor, ever.",
+  "version": "3.24.1",
+  "healthCheckPath": "/",
+  "httpPort": 8080,
+  "addons": {
+    "localstorage": {}
+  },
+  "manifestVersion": 1,
+  "website": "https://dillinger.io/",
+  "contactEmail": "support@cloudron.io",
+  "icon": "file://icon.png",
+  "tags": [
+    "markdown",
+    "editor"
+  ],
+  "mediaLinks": [ ]
+}
